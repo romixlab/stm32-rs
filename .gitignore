@@ -11,3 +11,6 @@ mmaps/
 
 # automatically generated crates
 /stm32*/
+
+.DS_Store
+/pac
